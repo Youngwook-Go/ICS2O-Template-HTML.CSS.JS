@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS2O-Template-HTML.CSS.JS)](https://repl.it/github/Youngwook-Go/ICS2O-Template-HTML.CSS.JS)
 
-This site can be found at: [https://Youngwook-Go.github.io/Template-HTML.CSS.JS](https://Youngwook-Go.github.io/Template-HTML.CSS.JS)
+This site can be found at: [https://Youngwook-Go.github.io/ICS2O-Template-HTML.CSS.JS](https://Youngwook-Go.github.io/ICS2O-Template-HTML.CSS.JS)
